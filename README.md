@@ -4,7 +4,8 @@ This Python code uses the pywhatkit module to send a WhatsApp message to a conta
 ## Requirements
 * Python 3.6 or higher
 * The `pywhatkit` module is required.
-* 'pywhatkit' - It is python library
+* 'pywhatkit' - It is python library.
+* Know more about [pywhatkit]("https://pypi.org/project/pywhatkit")
 
 ## Usage
 1. Install the `pywhatkit` module using the command `pip install pywhatkit`.
